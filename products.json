@@ -1,0 +1,130 @@
+[
+  {
+    "productId": "bag-101",
+    "name": "Northstar Daypack",
+    "brand": "Northstar",
+    "description": "Your everyday carry, sorted. A compact canvas daypack with a padded laptop sleeve, comfortable straps, and room for a full day of plans.",
+    "priceCents": 5900,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviewCount": 128,
+    "stock": 2,
+    "category": "Backpacks",
+    "features": [
+      "Padded 13-inch laptop sleeve",
+      "Water-resistant canvas",
+      "18-liter capacity"
+    ],
+    "reviews": [
+      {
+        "author": "Maya",
+        "rating": 5,
+        "title": "My daily go-to",
+        "body": "Fits my laptop, lunch, and a book without feeling bulky."
+      },
+      {
+        "author": "Jordan",
+        "rating": 4,
+        "title": "Ready for the commute",
+        "body": "Comfortable straps and useful pockets. I would love one more inside zip pocket."
+      }
+    ],
+    "image": "images/bag-101.jpg"
+  },
+  {
+    "productId": "bag-102",
+    "name": "Northstar Transit",
+    "brand": "Northstar",
+    "description": "A streamlined commuter bag for the office, train, and everything between. Thoughtful organization keeps your essentials within reach.",
+    "priceCents": 7900,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviewCount": 86,
+    "stock": 16,
+    "category": "Work bags",
+    "features": [
+      "Padded device compartment",
+      "Quick-access front pocket",
+      "Adjustable carry strap"
+    ],
+    "reviews": [
+      {
+        "author": "Alex",
+        "rating": 5,
+        "title": "Everything has a place",
+        "body": "Makes finding my charger and headphones on the train much easier."
+      },
+      {
+        "author": "Sam",
+        "rating": 4,
+        "title": "A useful everyday bag",
+        "body": "Good organization and a comfortable strap for short trips."
+      }
+    ],
+    "image": "images/bag-102.jpg"
+  },
+  {
+    "productId": "bag-103",
+    "name": "Cityline Everyday Tote",
+    "brand": "Cityline",
+    "description": "A roomy tote that goes from the coffee shop to the weekend market. Durable fabric, comfortable handles, and a simple shape that works with everything.",
+    "priceCents": 3900,
+    "currency": "USD",
+    "rating": 4.6,
+    "reviewCount": 64,
+    "stock": 32,
+    "category": "Totes",
+    "features": [
+      "Roomy main compartment",
+      "Interior essentials pocket",
+      "Reinforced carry handles"
+    ],
+    "reviews": [
+      {
+        "author": "Casey",
+        "rating": 5,
+        "title": "More room than it looks",
+        "body": "My favorite for a notebook, water bottle, and a few market finds."
+      },
+      {
+        "author": "Riley",
+        "rating": 4,
+        "title": "Easy to carry",
+        "body": "Lightweight and useful for a day around town."
+      }
+    ],
+    "image": "images/bag-103.jpg"
+  },
+  {
+    "productId": "bag-104",
+    "name": "Roam Weekender",
+    "brand": "Roam",
+    "description": "Pack a little adventure. A versatile weekend bag with space for a change of clothes, travel essentials, and the things you never leave behind.",
+    "priceCents": 9900,
+    "currency": "USD",
+    "rating": 4.9,
+    "reviewCount": 52,
+    "stock": 12,
+    "category": "Travel bags",
+    "features": [
+      "Wide-opening main compartment",
+      "Separate small-item pocket",
+      "Removable shoulder strap"
+    ],
+    "reviews": [
+      {
+        "author": "Taylor",
+        "rating": 5,
+        "title": "Perfect for two nights away",
+        "body": "Everything fits and the wide opening makes packing simple."
+      },
+      {
+        "author": "Morgan",
+        "rating": 5,
+        "title": "Weekend staple",
+        "body": "Easy to grab and go, with enough room for an extra layer."
+      }
+    ],
+    "image": "images/bag-104.jpg"
+  }
+]
